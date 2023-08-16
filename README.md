@@ -1,5 +1,6 @@
 # Yelp-EDA
-analyzing properties of businesses in the united states, specifically we focused on restaurants in clevleand, explored the data which concerns these restaurants such as their rating,what categories of food or entertainment they provide, number of check-ins over the years, analyzed written reviews and feedback from Yelp users regarding these restaurants and more...
-
+• Explored data related to restaurants in Cleveland, including ratings, food and entertainment categories, check-in trends, and user reviews from Yelp.
+• Analyzed and derived insights from various attributes, contributing to a comprehensive understanding of the restaurant landscape.
+• Conducted exploratory data analysis to uncover patterns and trends, informing data-driven decision-making processes.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_Q9rorfE6JacB0kY9Mb6gQdlN1r83TtO)
 
